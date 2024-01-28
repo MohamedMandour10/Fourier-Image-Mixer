@@ -91,6 +91,12 @@ For additional details on the code structure and implementation, refer to the so
 
 Feel free to explore and experiment with the Image Mixer project!
 
+## Demo
+
+
+https://github.com/MohamedMandour10/Fourier-Image-Mixer/assets/115044826/8c4150bb-c027-46da-8f69-8a2edba914d1
+
+
 ## How to Run
 
 1. Install the required dependencies using 
